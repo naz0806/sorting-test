@@ -70,7 +70,7 @@
       });
     }
 
- function displayAfterSort(){
+ function displaySortedData(){
       let outputSection  = document.getElementById('output');
       outputSection.innerHTML = '';
       let fragment = document.createDocumentFragment();
